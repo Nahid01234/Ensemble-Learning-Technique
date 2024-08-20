@@ -1,1 +1,1 @@
-# Ensemble-Learning-Technique
+# Ensemble Learning Technique
